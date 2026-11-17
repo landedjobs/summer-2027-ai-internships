@@ -1,5 +1,110 @@
 [
   {
+    "dedupeKey": "job:4c66fbb4-9be5-4d5e-a798-c29fa2aad74d",
+    "companyId": "company_d2b3670efa18a07238d4fc11bdf5af6d",
+    "company": "Pacific Fusion",
+    "companyDomain": "pacificfusion.com",
+    "role": "Summer 2027 HPC/DevOps Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/hcu81e1",
+    "location": "San Leandro, CA",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "AWS",
+      "infrastructure as code",
+      "Python",
+      "CI/CD",
+      "containers"
+    ],
+    "posted": "2026-11-16T19:40:27.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp ClimateTech 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5e1c91fe-a140-4e2d-b301-1f9f600fce3e",
+    "companyId": "company_d2b3670efa18a07238d4fc11bdf5af6d",
+    "company": "Pacific Fusion",
+    "companyDomain": "pacificfusion.com",
+    "role": "Summer 2027 Experimental Physics, X-Ray Diagnostics Internship",
+    "applyUrl": "https://go.landed.jobs/89ay4y5",
+    "location": "San Leandro, CA",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "python"
+    ],
+    "posted": "2026-11-16T19:39:48.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp ClimateTech 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:1f845e11-2c37-4ecf-a4d0-d9de35ac3307",
+    "companyId": "company_d2b3670efa18a07238d4fc11bdf5af6d",
+    "company": "Pacific Fusion",
+    "companyDomain": "pacificfusion.com",
+    "role": "Summer 2027 Materials Science Internship",
+    "applyUrl": "https://go.landed.jobs/q1wuq1p",
+    "location": "San Leandro, CA",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-16T19:32:40.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp ClimateTech 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:3188894f-0d16-4c74-be2f-1e7d40260ab0",
+    "companyId": "company_11d05872aecf1305e93ea677fa9f5ba3",
+    "company": "Lightmatter",
+    "companyDomain": "lightmatter.co",
+    "role": "Data & AI Platform, Intern - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/3amgbna",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "intern",
+    "skills": [
+      "Snowflake",
+      "SQL",
+      "observability",
+      "Python"
+    ],
+    "posted": "2026-11-12T22:36:03.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$4.4B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:a4fe059c-7b44-44ad-952d-96e97383a686",
     "companyId": "company_11d05872aecf1305e93ea677fa9f5ba3",
     "company": "Lightmatter",
@@ -318,45 +423,6 @@
     ]
   },
   {
-    "dedupeKey": "job:ffef2406-77f0-4a0d-9fdd-70506305ea95",
-    "companyId": "company_aa5613ac6586b79175c21e339097bb23",
-    "company": "Shield AI",
-    "companyDomain": "shield.ai",
-    "role": "June 2027 Co-Op - Software Engineer Intern",
-    "applyUrl": "https://go.landed.jobs/ccthlfv",
-    "location": "Dallas, TX +3",
-    "locations": [
-      "Dallas, TX",
-      "Washington, D.C., DC",
-      "Seattle, WA",
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "write and debug production-quality code",
-      "Agile development practices",
-      "embedded C/C++ code",
-      "hardware-in-the-loop testing",
-      "machine learning",
-      "object detection",
-      "sensor fusion",
-      "cloud platforms",
-      "databases",
-      "networking",
-      "distributed systems",
-      "embedded systems"
-    ],
-    "posted": "2026-11-05T17:02:43.501Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.7B valuation",
-      "Series G"
-    ]
-  },
-  {
     "dedupeKey": "job:7e49e4e9-a406-4f78-82c9-05a0ca8c2a8a",
     "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
     "company": "Waymo",
@@ -625,34 +691,6 @@
     ]
   },
   {
-    "dedupeKey": "job:35e74841-0e6c-47ae-932c-a8ed3c3a6345",
-    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
-    "company": "Applied Materials",
-    "companyDomain": "appliedmaterials.com",
-    "role": "Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)",
-    "applyUrl": "https://go.landed.jobs/hpwp3au",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "data_science_analytics",
-    "level": "intern",
-    "skills": [
-      "MS Office Suite",
-      "Tableau",
-      "SQL",
-      "Python"
-    ],
-    "posted": "2026-10-28T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$403B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:3e8e1e82-dd18-4aa3-9663-0ab97194790f",
     "companyId": "company_a8ba89e0fdb5a6e1ac1ee6ccce7cb058",
     "company": "CrowdStrike",
@@ -852,6 +890,33 @@
     "companyBadges": [
       "$4.4B valuation",
       "Series F"
+    ]
+  },
+  {
+    "dedupeKey": "job:8f9cf960-4c18-4132-a369-6f82b6b6f9b4",
+    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
+    "company": "Applied Materials",
+    "companyDomain": "appliedmaterials.com",
+    "role": "2027 Computational Beamline / Plasma Scientist Summer Intern - MS or PhD (Gloucester, MA)",
+    "applyUrl": "https://go.landed.jobs/qg1moyj",
+    "location": "Gloucester, MA",
+    "locations": [
+      "Gloucester, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "ion beam transport",
+      "magnet design",
+      "plasma modeling"
+    ],
+    "posted": "2026-10-26T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$403B valuation"
     ]
   },
   {
@@ -1222,70 +1287,58 @@
     ]
   },
   {
-    "dedupeKey": "job:788036db-11a3-445c-9a9d-2b9046c3ac03",
-    "companyId": "company_b23503a323cf7b63923eb99bc46a8e4b",
-    "company": "Impulse Space",
-    "companyDomain": "impulsespace.com",
-    "role": "Enterprise Software Engineering Intern (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/wbzh576",
-    "location": "Redondo Beach, CA",
+    "dedupeKey": "job:3ac2171b-8ac5-4261-abc5-7e1921a4b0fb",
+    "companyId": "company_2a812cf9ea20002b33d1d7ec3bb5b9e4",
+    "company": "Forterra",
+    "companyDomain": "forterra.com",
+    "role": "2027 Intern - Software",
+    "applyUrl": "https://go.landed.jobs/7hkm3ah",
+    "location": "Clarksburg, MD +4",
     "locations": [
-      "Redondo Beach, CA"
+      "Clarksburg, MD",
+      "Arlington, VA",
+      "Durham, NC",
+      "Winter Park, FL",
+      "East Palo Alto, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "software_engineering",
     "level": "intern",
     "skills": [
-      "Python",
-      "FastAPI",
-      "Node.js",
-      "React",
-      "Airbyte",
-      "PostgreSQL",
-      "AWS Redshift",
-      "AWS",
-      "JavaScript/TypeScript",
-      "SQL",
-      "Git"
+      "C++"
     ],
-    "posted": "2026-10-17T00:05:39.747Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T23:22:23.388Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$4B valuation"
+      "$2B valuation",
+      "Series B"
     ]
   },
   {
-    "dedupeKey": "job:2f3c658e-4446-438c-9b1c-cc119df06340",
-    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
-    "company": "Together AI",
-    "companyDomain": "together.ai",
-    "role": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/b8fhggz",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:1615a5c9-ee41-47a5-a465-b128a491b35e",
+    "companyId": "company_57bd4cc69771c1b10fbb7c03e84df1a8",
+    "company": "Reliable Robotics Corporation",
+    "companyDomain": "reliable.co",
+    "role": "Displays Engineer Intern (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/za13niy",
+    "location": "Mountain View, CA",
     "locations": [
-      "San Francisco, CA"
+      "Mountain View, CA"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
-    "family": "research_science",
+    "family": "software_engineering",
     "level": "intern",
     "skills": [
-      "speculative decoding",
-      "knowledge distillation",
-      "distributed training frameworks",
-      "Megatron-LM",
-      "FSDP",
-      "Mixture-of-Experts",
-      "hybrid attention",
-      "reinforcement learning"
+      "JavaScript",
+      "Figma"
     ],
-    "posted": "2026-10-16T22:48:51.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T15:52:55.923Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$8.3B valuation"
+      "$1B valuation",
+      "Series D"
     ]
   },
   {
@@ -1427,6 +1480,34 @@
       "SQL",
       "Python",
       "AWS"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:8530809d-1cff-44eb-944a-f2d6a5106a54",
+    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
+    "company": "Bms",
+    "companyDomain": "bms.com",
+    "role": "Data & Quantitative Sciences Statistical Programming Intern - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/jdfl3o9",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Princeton, NJ",
+      "Madison, NJ",
+      "Brisbane, CA",
+      "San Diego, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "data_science_analytics",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "large language models"
     ],
     "posted": "2026-11-13T00:00:00.000Z",
     "companyTier": "B",
@@ -2974,32 +3055,6 @@
     ]
   },
   {
-    "dedupeKey": "job:c71ece88-b0f6-44de-94b3-20f7e263a24f",
-    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
-    "company": "Bms",
-    "companyDomain": "bms.com",
-    "role": "Autologous and Autoimmune Product Sciences Summer Intern",
-    "applyUrl": "https://go.landed.jobs/y8qcd97",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "spectral flow cytometry assay",
-      "cell culture, pipetting, aseptic technique",
-      "flow cytometry (spectral or conventional)"
-    ],
-    "posted": "2026-10-27T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:ce5024cb-6015-4f25-9a7b-3a3be3be683a",
     "companyId": "company_0b390856f26b184641aee4406f46078d",
     "company": "PTC",
@@ -3391,35 +3446,6 @@
     ]
   },
   {
-    "dedupeKey": "job:4a5744ff-8b1f-408f-90c0-8d461be1810a",
-    "companyId": "company_860d14b55a7d54ba235f84fd69fff124",
-    "company": "Veeam Software",
-    "companyDomain": "veeam.com",
-    "role": "Data & Analytics Engineering Intern - Summer 2027",
-    "applyUrl": "https://go.landed.jobs/0s0itx3",
-    "location": "Alpharetta, GA · US",
-    "locations": [
-      "Alpharetta, GA",
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "data_engineering",
-    "level": "intern",
-    "skills": [
-      "SQL",
-      "Python",
-      "Spark",
-      "Azure",
-      "Git"
-    ],
-    "posted": "2026-10-16T14:24:47.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$15B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:c433329b-8750-476a-96b5-3bc489ec4058",
     "companyId": "company_68767e82c4962622286a0532b62808a3",
     "company": "Zoox",
@@ -3500,6 +3526,29 @@
     "companyBadges": [
       "Seed"
     ]
+  },
+  {
+    "dedupeKey": "job:8748d72c-6057-42c7-9fb4-37aa0145587b",
+    "companyId": "company_8db1e48ff157e59c8cbafd889d00862b",
+    "company": "Duetti",
+    "companyDomain": "duetti.co",
+    "role": "2027 Summer Internship - Data",
+    "applyUrl": "https://go.landed.jobs/uvd3hnz",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-11-12T21:43:58.929Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:dc3481e7-2e72-4fbf-918d-6f455200c23c",
@@ -3734,6 +3783,35 @@
     "posted": "2026-11-11T18:16:21.000Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:8262204c-14e0-474c-8a0a-300a04d8af4c",
+    "companyId": "company_e9e411e648f15f8a61983c4da2e92a74",
+    "company": "Brex",
+    "companyDomain": "brex.com",
+    "role": "Software Engineer, Intern (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/bg2i8bm",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY",
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "Java",
+      "Kotlin",
+      "SQL"
+    ],
+    "posted": "2026-11-11T16:23:25.000Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "TrueUp Remote 200"
+    ]
   },
   {
     "dedupeKey": "job:88ed2bc7-a428-4869-b43f-fd36fc64949d",
@@ -4946,6 +5024,73 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:788036db-11a3-445c-9a9d-2b9046c3ac03",
+    "companyId": "company_b23503a323cf7b63923eb99bc46a8e4b",
+    "company": "Impulse Space",
+    "companyDomain": "impulsespace.com",
+    "role": "Enterprise Software Engineering Intern (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/wbzh576",
+    "location": "Redondo Beach, CA",
+    "locations": [
+      "Redondo Beach, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Node.js",
+      "React",
+      "Airbyte",
+      "PostgreSQL",
+      "AWS Redshift",
+      "AWS",
+      "JavaScript/TypeScript",
+      "SQL",
+      "Git"
+    ],
+    "posted": "2026-10-17T00:05:39.747Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2f3c658e-4446-438c-9b1c-cc119df06340",
+    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
+    "company": "Together AI",
+    "companyDomain": "together.ai",
+    "role": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/b8fhggz",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [
+      "speculative decoding",
+      "knowledge distillation",
+      "distributed training frameworks",
+      "Megatron-LM",
+      "FSDP",
+      "Mixture-of-Experts",
+      "hybrid attention",
+      "reinforcement learning"
+    ],
+    "posted": "2026-10-16T22:48:51.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$8.3B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:f6e4f4bf-0005-4a47-b2ed-124709971e63",
     "companyId": "company_5850aae2aac85bc56e702d7dc0774c77",
     "company": "Riverlane",
@@ -4974,6 +5119,35 @@
     "companyBadges": [
       "$400M valuation",
       "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:4a5744ff-8b1f-408f-90c0-8d461be1810a",
+    "companyId": "company_860d14b55a7d54ba235f84fd69fff124",
+    "company": "Veeam Software",
+    "companyDomain": "veeam.com",
+    "role": "Data & Analytics Engineering Intern - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/0s0itx3",
+    "location": "Alpharetta, GA · US",
+    "locations": [
+      "Alpharetta, GA",
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "data_engineering",
+    "level": "intern",
+    "skills": [
+      "SQL",
+      "Python",
+      "Spark",
+      "Azure",
+      "Git"
+    ],
+    "posted": "2026-10-16T14:24:47.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$15B valuation"
     ]
   },
   {
@@ -6585,6 +6759,34 @@
     ]
   },
   {
+    "dedupeKey": "job:2a611d5a-71bd-4a79-aa9c-b4f54a818835",
+    "companyId": "company_0cce0f517f506ca463708bea9a8a78c5",
+    "company": "Tyler Technologies",
+    "companyDomain": "tylertech.com",
+    "role": "Software Development Intern, Summer 2027",
+    "applyUrl": "https://go.landed.jobs/o6or895",
+    "location": "Plano, TX",
+    "locations": [
+      "Plano, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "SQL",
+      "VB/VB.NET",
+      "C++/C#",
+      "ASP/ASP.NET"
+    ],
+    "posted": "2026-10-01T00:08:50.027Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$13.1B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:81983638-55cd-47d3-8769-c8deeaaad6c8",
     "companyId": "company_438cd59b0714655b3b128e2dff6daebc",
     "company": "Cigna",
@@ -8189,210 +8391,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$8.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:c0663dfa-4762-4be4-bdf9-106feb52f212",
-    "companyId": "company_df4175841a678bc0bf319ae4d807962f",
-    "company": "CTGT",
-    "companyDomain": "ctgt.ai",
-    "role": "Research Intern: Interpretability & Reliability (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/ocdjoc5",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "PyTorch",
-      "modern ML stack"
-    ],
-    "posted": "2026-09-18T06:38:54.062Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC F24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:0a935d9e-5e37-4201-bebf-012ec8711bab",
-    "companyId": "company_6df4e892e6ad8d84e921e7fdffd41e71",
-    "company": "Thirdlayer",
-    "companyDomain": "thirdlayer.inc",
-    "role": "2026 Summer AI/ML Engineer Intern",
-    "applyUrl": "https://go.landed.jobs/be9u22w",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "LLMs",
-      "prompt engineering"
-    ],
-    "posted": "2026-09-18T06:26:39.172Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "YC W25"
-    ]
-  },
-  {
-    "dedupeKey": "job:39895fbd-d783-43d5-87b7-2592614deeb6",
-    "companyId": "company_7b7ac5b9ed9a1292635281452d65a6eb",
-    "company": "Speak",
-    "companyDomain": "speak.com",
-    "role": "Full-stack Engineer, Internship (Summer 2026)",
-    "applyUrl": "https://go.landed.jobs/061weyh",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "TypeScript",
-      "Node",
-      "React"
-    ],
-    "posted": "2026-09-18T06:19:52.459Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W17",
-      "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:57dfb538-6690-4d47-8574-3c0ab23fab50",
-    "companyId": "company_7b7ac5b9ed9a1292635281452d65a6eb",
-    "company": "Speak",
-    "companyDomain": "speak.com",
-    "role": "iOS Engineer, Internship (Summer 2026)",
-    "applyUrl": "https://go.landed.jobs/xmb6n5w",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "iOS development",
-      "Swift"
-    ],
-    "posted": "2026-09-18T06:19:52.459Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W17",
-      "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:7b98d8d4-374b-4a66-be4e-2f9359ec13b9",
-    "companyId": "company_0a26e5f4f34defcde9e803c23bf203fe",
-    "company": "SafetyKit",
-    "companyDomain": "safetykit.com",
-    "role": "Full Stack Engineer, Intern Summer 2026",
-    "applyUrl": "https://go.landed.jobs/4g6q8q0",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-09-18T06:10:04.358Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC S23",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:888a35dd-b2d4-4bc3-8d4f-1b5e70041897",
-    "companyId": "company_fdca9f2a22801597ab98f6eba1eedf1e",
-    "company": "Crustdata",
-    "companyDomain": "crustdata.com",
-    "role": "ML Engineer Intern | Summer 2026",
-    "applyUrl": "https://go.landed.jobs/kzzfmay",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "PyTorch",
-      "LLMs",
-      "NLP",
-      "distributed training"
-    ],
-    "posted": "2026-09-18T06:03:27.967Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC F24",
-      "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:0d390346-e8da-4bab-811f-a8c23fc2f2a3",
-    "companyId": "company_9eaad06fc95b199619401c26cdf48c17",
-    "company": "Aemon",
-    "companyDomain": "aemon.ai",
-    "role": "Member of Technical Staff Intern 2027",
-    "applyUrl": "https://go.landed.jobs/gblfg1l",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "autonomous AI research engineers"
-    ],
-    "posted": "2026-09-18T05:43:48.651Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "YC W26"
-    ]
-  },
-  {
-    "dedupeKey": "job:17663664-31e0-461a-b35f-6e1d0dbcd515",
-    "companyId": "company_dad89edc13a5d431879b8f6b131f6718",
-    "company": "Formlabs",
-    "companyDomain": "formlabs.com",
-    "role": "PhD Intern - Materials Science (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/16oqk70",
-    "location": "Somerville, MA",
-    "locations": [
-      "Somerville, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-09-18T02:01:08.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2B valuation",
-      "Series E"
     ]
   }
 ]
