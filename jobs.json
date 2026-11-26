@@ -7920,33 +7920,6 @@
     ]
   },
   {
-    "dedupeKey": "job:7166f69e-bb7f-408f-bc11-0d31c241e9fa",
-    "companyId": "company_f83ba09c9d8cd8e33af4c2365cda3aa9",
-    "company": "Rippling",
-    "companyDomain": "rippling.com",
-    "role": "Software Engineer Intern - Backend Focused - Summer 2027",
-    "applyUrl": "https://go.landed.jobs/wosig49",
-    "location": "New York City, NY +2",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA",
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-09-21T23:42:35.334Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W17",
-      "$16.8B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:25e0a7b9-2ca5-4bb2-918d-2fb6149b141a",
     "companyId": "company_2525739c6bc767fd460d85fab4e1244b",
     "company": "Cowboy Space Corporation",
@@ -8075,34 +8048,6 @@
     ]
   },
   {
-    "dedupeKey": "job:225947d8-a140-4ce3-b73b-1b3dfa30825e",
-    "companyId": "company_f83ba09c9d8cd8e33af4c2365cda3aa9",
-    "company": "Rippling",
-    "companyDomain": "rippling.com",
-    "role": "Full Stack Software Engineer Intern - Summer 2027",
-    "applyUrl": "https://go.landed.jobs/bs2b9zy",
-    "location": "San Francisco, CA +2",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "JavaScript"
-    ],
-    "posted": "2026-09-21T16:23:18.392Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W17",
-      "$16.8B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:a2e4977e-cb68-46df-ae44-44956ae6fd48",
     "companyId": "company_f639b32d415748eb55e46cee653acd2d",
     "company": "The Aerospace Corporation",
@@ -8197,6 +8142,48 @@
       "data analysis"
     ],
     "posted": "2026-09-18T20:58:45.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:75548371-077e-490a-8136-df4ea8ecc213",
+    "companyId": "company_0f07b0ac252cb8bb7a23df7e633858fb",
+    "company": "The Brattle Group",
+    "companyDomain": "brattle.com",
+    "role": "Research Analyst Intern (Economics & Finance) - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/229feca",
+    "location": "Washington, D.C., DC · New York City, NY",
+    "locations": [
+      "Washington, D.C., DC",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-09-18T20:58:42.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:ca2779f9-3782-4c56-acd1-130b382db80d",
+    "companyId": "company_0f07b0ac252cb8bb7a23df7e633858fb",
+    "company": "The Brattle Group",
+    "companyDomain": "brattle.com",
+    "role": "Research Analyst Intern (Economics & Finance) - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/vir9qp7",
+    "location": "New York City, NY · Washington, D.C., DC",
+    "locations": [
+      "New York City, NY",
+      "Washington, D.C., DC"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-09-18T20:58:40.000Z",
     "companyTier": "U",
     "companyBadges": []
   }
